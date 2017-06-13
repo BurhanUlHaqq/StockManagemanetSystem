@@ -1,0 +1,9 @@
+E:\Development\Projects\StoreManagemnetSystem\com.sms.handler\bin\Debug\com.sms.handler.dll
+E:\Development\Projects\StoreManagemnetSystem\com.sms.handler\bin\Debug\com.sms.handler.pdb
+E:\Development\Projects\StoreManagemnetSystem\com.sms.handler\obj\Debug\com.sms.handler.dll
+E:\Development\Projects\StoreManagemnetSystem\com.sms.handler\obj\Debug\com.sms.handler.pdb
+E:\Development\Projects\StoreManagemnetSystem\com.sms.handler\obj\Debug\com.sms.handler.csprojResolveAssemblyReference.cache
+E:\Development\Projects\StoreManagemnetSystem\com.sms.handler\bin\Debug\com.sms.config.dll
+E:\Development\Projects\StoreManagemnetSystem\com.sms.handler\bin\Debug\com.sms.config.pdb
+E:\Development\Projects\StoreManagemnetSystem\com.sms.handler\bin\Debug\com.sms.db.dll
+E:\Development\Projects\StoreManagemnetSystem\com.sms.handler\bin\Debug\com.sms.db.pdb

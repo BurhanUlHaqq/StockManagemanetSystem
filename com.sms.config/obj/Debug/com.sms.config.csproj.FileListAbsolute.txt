@@ -1,0 +1,4 @@
+E:\Development\Projects\StoreManagemnetSystem\com.sms.config\bin\Debug\com.sms.config.dll
+E:\Development\Projects\StoreManagemnetSystem\com.sms.config\bin\Debug\com.sms.config.pdb
+E:\Development\Projects\StoreManagemnetSystem\com.sms.config\obj\Debug\com.sms.config.dll
+E:\Development\Projects\StoreManagemnetSystem\com.sms.config\obj\Debug\com.sms.config.pdb

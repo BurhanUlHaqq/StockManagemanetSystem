@@ -1,0 +1,17 @@
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\bin\Debug\StoreManagemnetSystem.exe
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\bin\Debug\StoreManagemnetSystem.pdb
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\bin\Debug\com.sms.gui.dll
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\bin\Debug\com.sms.gui.pdb
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\obj\x86\Debug\StoreManagemnetSystem.csprojResolveAssemblyReference.cache
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\obj\x86\Debug\StoreManagemnetSystem.Main.resources
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\obj\x86\Debug\StoreManagemnetSystem.Properties.Resources.resources
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\obj\x86\Debug\StoreManagemnetSystem.csproj.GenerateResource.Cache
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\obj\x86\Debug\StoreManagemnetSystem.exe.licenses
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\obj\x86\Debug\StoreManagemnetSystem.exe
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\obj\x86\Debug\StoreManagemnetSystem.pdb
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\bin\Debug\com.sms.handler.dll
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\bin\Debug\com.sms.config.dll
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\bin\Debug\com.sms.db.dll
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\bin\Debug\com.sms.handler.pdb
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\bin\Debug\com.sms.config.pdb
+E:\Development\Projects\StoreManagemnetSystem\StoreManagemnetSystem\bin\Debug\com.sms.db.pdb
